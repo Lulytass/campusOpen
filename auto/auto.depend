@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653770564 source:c:\users\lucia\desktop\poo\ejercicios con h\auto\funciones.cpp
+	"class.h"
+
+1653770843 source:c:\users\lucia\desktop\poo\ejercicios con h\auto\main.cpp
+	<iostream>
+	"class.h"
+
+1653770509 c:\users\lucia\desktop\poo\ejercicios con h\auto\class.h
+
